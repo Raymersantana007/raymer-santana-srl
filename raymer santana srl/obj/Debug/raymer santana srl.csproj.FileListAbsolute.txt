@@ -1,0 +1,14 @@
+c:\users\toshiba mt\documents\visual studio 2017\Projects\raymer santana srl\raymer santana srl\bin\Debug\raymer santana srl.exe.config
+c:\users\toshiba mt\documents\visual studio 2017\Projects\raymer santana srl\raymer santana srl\bin\Debug\raymer santana srl.exe
+c:\users\toshiba mt\documents\visual studio 2017\Projects\raymer santana srl\raymer santana srl\bin\Debug\raymer santana srl.pdb
+c:\users\toshiba mt\documents\visual studio 2017\Projects\raymer santana srl\raymer santana srl\obj\Debug\raymer santana srl.csprojResolveAssemblyReference.cache
+c:\users\toshiba mt\documents\visual studio 2017\Projects\raymer santana srl\raymer santana srl\obj\Debug\raymer santana srl.exe
+c:\users\toshiba mt\documents\visual studio 2017\Projects\raymer santana srl\raymer santana srl\obj\Debug\raymer santana srl.pdb
+C:\Users\Toshiba MT\documents\visual studio 2017\Projects\raymer santana srl\raymer santana srl\obj\Debug\raymer santana srl.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba MT\Desktop\raymer santana srl\raymer santana srl\bin\Debug\raymer santana srl.exe.config
+C:\Users\Toshiba MT\Desktop\raymer santana srl\raymer santana srl\bin\Debug\raymer santana srl.exe
+C:\Users\Toshiba MT\Desktop\raymer santana srl\raymer santana srl\bin\Debug\raymer santana srl.pdb
+C:\Users\Toshiba MT\Desktop\raymer santana srl\raymer santana srl\obj\Debug\raymer santana srl.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba MT\Desktop\raymer santana srl\raymer santana srl\obj\Debug\raymer santana srl.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba MT\Desktop\raymer santana srl\raymer santana srl\obj\Debug\raymer santana srl.exe
+C:\Users\Toshiba MT\Desktop\raymer santana srl\raymer santana srl\obj\Debug\raymer santana srl.pdb
